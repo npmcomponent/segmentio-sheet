@@ -1,0 +1,22 @@
+{
+  "name": "segmentio-sheet",
+  "description": "A special modal that slides out from the right or left side of the screen.",
+  "version": "1.0.0",
+  "keywords": [
+    "modal",
+    "sheet",
+    "ui",
+    "overlay"
+  ],
+  "main": "lib/index.js",
+  "styles": [
+    "lib/index.css"
+  ],
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-delegate": "git://github.com/npmcomponent/component-delegate.git",
+    "segmentio-modal": "git://github.com/npmcomponent/segmentio-modal.git",
+    "ianstormtaylor-classes": "git://github.com/npmcomponent/ianstormtaylor-classes.git"
+  },
+  "license": "MIT"
+}
